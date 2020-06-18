@@ -6,7 +6,7 @@ It was made with Python, Jupyter Notebook and the Spotify API.
 Şelale Urun & João Fernandes & Robert Bozsik
 
 # Project Details:
-The goal is to gather data from different sources (including APIs and scrape data from the web).\ 
+The goal is to gather data from different sources (including APIs and scrape data from the web). \ 
 Then cleaning, merging and analyzing the dataset. 
 
 # Sources:
