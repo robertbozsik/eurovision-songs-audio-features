@@ -10,7 +10,7 @@ The goal is to gather data from different sources (including APIs and scrape dat
 Then cleaning, merging and analyzing the dataset. 
 
 # Sources:
-Eurovision Song Contest Website: https://eurovision.tv/events
-Spotify API: https://developer.spotify.com/documentation/web-api/
-Python: https://www.python.org/
+Eurovision Song Contest Website: https://eurovision.tv/events \
+Spotify API: https://developer.spotify.com/documentation/web-api/ \
+Python: https://www.python.org/ \
 Jupyter Notebook: https://jupyter.org/
