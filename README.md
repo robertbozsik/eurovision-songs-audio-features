@@ -6,8 +6,7 @@ It was made with Python, Jupyter Notebook and the Spotify API.
 Şelale Urun & João Fernandes & Robert Bozsik
 
 # Project Details:
-The goal is to gather data from different sources (including APIs and scrape data from the web). \ 
-Then cleaning, merging and analyzing the dataset. 
+The goal of the project is to gather data from different sources, including APIs and web scraping. Merge the data from the different sources and to gain a clean dataset ready for analysis.
 
 # Sources:
 Eurovision Song Contest Website: https://eurovision.tv/events \
