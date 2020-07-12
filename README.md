@@ -1,15 +1,12 @@
 # Audio Features of Songs in the Eurovision Song Contest
-Şelale Urun & João Fernandes & Robert Bozsik \
-June 2020
+This project was submitted as the first project of the Ironhack Bootcamp for Data Analysis in Berlin.\
+It was made with Python, Jupyter Notebook and the Spotify API.
+
+# Team members:
+Şelale Urun & João Fernandes & Robert Bozsik
 
 # Project Description & Goals:
-This projects main goal is to overcome the challenges of obtaining data from different sources such as APIs \
-and the website. Also to merge all the data collected and create one dataset.
-
-# Questions:
-- Are there any features that correlate with placing high in Eurovision?
-- What are the features of songs that won the Eurovision? 
-- What are the features of songs that got the least points? 
+The goal of the project was to gather data from different sources, including APIs and web scraping. Merge the data and gain a clean dataset ready for further analysis.
 
 # Workflow:
 1. Data Extraction: 
@@ -74,6 +71,11 @@ Data gained from Spotify
  - Tempo: The overall estimated tempo of a track in beats per minute
  - Duration_ms: The duration of the track in milliseconds
  - Time_signature: An estimated overall time signature of a track.
+
+# Questions for further analysis:
+- Are there any features that correlate with placing high in Eurovision?
+- What are the features of songs that won the Eurovision? 
+- What are the features of songs that got the least points? 
 
 # Resources:
 Eurovision Song Contest Website: https://eurovision.tv/events \
